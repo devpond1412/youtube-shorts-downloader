@@ -1,14 +1,18 @@
 # youtube-shorts-downloader
 
 A tiny desktop tool for bulk-downloading all YouTube Shorts from a channel.
-
+<div align="center">
+  <img width="256" alt="icon" src="https://github.com/user-attachments/assets/a4d69d8a-cafe-4bdd-8e26-717dfdb81ec6" />
+</div>
 > Built for my own workflow, but you’re welcome to use or fork it.
 
-![software](image.png)
-
 ## Tutorial images
-![tr-1](image-1.png)  ![tr-2](image-2.png) ![tr-3](image-3.png)
-![result](image-4.png)
+<div align="center">
+  <img width="310" src="https://github.com/user-attachments/assets/678f33a7-d7a7-4244-b840-58a8babc1dd0" />
+  <img width="314" src="https://github.com/user-attachments/assets/0e35c21f-576e-475b-a76a-a7d19d3f2b74" />
+  <img width="321" src="https://github.com/user-attachments/assets/45efd485-6d3a-4acd-8950-9386f18378b5" />
+  <img width="321" src="https://github.com/user-attachments/assets/0480ecf2-386d-416e-93be-42f1c78a47d5" />
+</div>
 
 ## Ingredients
 - Python and [pip](https://pypi.org/project/pip/)
@@ -38,6 +42,7 @@ pyinstaller --noconsole --onefile --icon=icon.ico ^
 ```
     
 ## Project Structure
+```bash
 PROJECT_ROOT
 ├─ src/
 │  ├─ core.py        # paths, yt-dlp wrapper, shared helpers
@@ -49,6 +54,7 @@ PROJECT_ROOT
 ├─ ffmpeg.exe
 ├─ icon.ico
 └─ README.md
+```
 
 ## License
 MIT License.
