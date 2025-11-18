@@ -7,12 +7,12 @@ A tiny desktop tool for bulk-downloading all YouTube Shorts from a channel.
 > Built for my own workflow, but you’re welcome to use or fork it.
 
 ## Tutorial images
-<img width="310" height="237" alt="image" src="https://github.com/user-attachments/assets/678f33a7-d7a7-4244-b840-58a8babc1dd0" />
-  <img width="314" height="238" alt="image" src="https://github.com/user-attachments/assets/0e35c21f-576e-475b-a76a-a7d19d3f2b74" />
- <img width="321" height="242" alt="image" src="https://github.com/user-attachments/assets/45efd485-6d3a-4acd-8950-9386f18378b5" />
-
-<img width="476" height="471" alt="image" src="https://github.com/user-attachments/assets/0480ecf2-386d-416e-93be-42f1c78a47d5" />
-
+<div align="center">
+  <img width="310" src="https://github.com/user-attachments/assets/678f33a7-d7a7-4244-b840-58a8babc1dd0" />
+  <img width="314" src="https://github.com/user-attachments/assets/0e35c21f-576e-475b-a76a-a7d19d3f2b74" />
+  <img width="321" src="https://github.com/user-attachments/assets/45efd485-6d3a-4acd-8950-9386f18378b5" />
+  <img width="476" src="https://github.com/user-attachments/assets/0480ecf2-386d-416e-93be-42f1c78a47d5" />
+</div>
 
 ## Ingredients
 - Python and [pip](https://pypi.org/project/pip/)
