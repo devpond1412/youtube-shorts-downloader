@@ -14,6 +14,10 @@ A tiny desktop tool for bulk-downloading all YouTube Shorts from a channel.
   <img width="321" src="https://github.com/user-attachments/assets/0480ecf2-386d-416e-93be-42f1c78a47d5" />
 </div>
 
+## Download
+
+You can download the latest Windows build from the [Releases](https://github.com/devpond1412/youtube-shorts-downloader/releases/latest) page.
+
 ## Ingredients
 - Python and [pip](https://pypi.org/project/pip/)
     - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl with additional features  
